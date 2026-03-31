@@ -44,5 +44,8 @@ This project addresses the problem by simulating AQI data and presenting it in a
 ## How to Run
 
 ### 1. Clone the repository
-```bash
 git clone https://github.com/jaligapu25bai11555/Hasith-vityarthi-AI-ML-project.git
+### 2. Navigate to the project directory
+cd Hasith-vityarthi-AI-ML-project
+### 3. Run the program
+python aqi_monitor.py
