@@ -45,4 +45,4 @@ This project addresses the problem by simulating AQI data and presenting it in a
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/jaligapu25bai11555/Hasith-vityarthi-AI-ML-project.git
